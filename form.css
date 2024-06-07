@@ -1,0 +1,33 @@
+body{
+    background-image:url("/3d-4k-black-geometric-wallpaper-preview.jpg") ;
+    background-size: cover;
+}
+form{
+    width:500px;
+    background-color: rgba(0, 0,0,0.5);
+    margin:250px auto;
+    box-sizing:border-box;
+    border-radius:10px;
+    color: aliceblue;
+    padding:20px 40px;
+    font-size:20px ;
+}
+.label{
+    display:block;
+    
+}
+.name input,
+.email input,.number input{
+    width:100%;
+    font-size: 15px;
+    padding:10px;
+    border-radius:6px;
+
+}
+
+
+button:hover{
+
+    background-color: rgb(56, 179, 93);
+    
+}
